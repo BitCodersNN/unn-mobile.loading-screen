@@ -1,0 +1,120 @@
+{
+    "default": [
+        {
+            "logo_path": "logos/default-logo.png",
+            "name": "Default logo"
+        }
+    ],
+    "holidays": [
+        {
+            "logo_path": "logos/holiday/april-12th.png",
+            "name": "April 12th",
+            "start_date": "12-04",
+            "end_date": "12-04"
+        },
+        {
+            "logo_path": "logos/holiday/march-8th.png",
+            "name": "March 8th",
+            "start_date": "08-03",
+            "end_date": "08-03"
+        },
+        {
+            "logo_path": "logos/holiday/may-9th.png",
+            "name": "May 9th",
+            "start_date": "09-05",
+            "end_date": "09-05"
+        },
+        {
+            "logo_path": "logos/holiday/new-year.png",
+            "name": "New Year",
+            "start_date": "01-01",
+            "end_date": "11-01"
+        }
+    ],
+    "faculty_days": [
+        {
+            "logo_path": "logos/faculty-days/imomi.png",
+            "name": "IMOMI",
+            "start_date": "27-12",
+            "end_date": "27-12"
+        },
+        {
+            "logo_path": "logos/faculty-days/fsn.png",
+            "name": "FSN",
+            "start_date": "25-12",
+            "end_date": "25-12"
+        },
+        {
+            "logo_path": "logos/faculty-days/himfak.png",
+            "name": "HIMFAK",
+            "start_date": "24-04",
+            "end_date": "28-04"
+        },
+        {
+            "logo_path": "logos/faculty-days/rf.png",
+            "name": "RF",
+            "start_date": "29-06",
+            "end_date": "29-06"
+        },
+        {
+            "logo_path": "logos/faculty-days/iitmm.png",
+            "name": "IITMM",
+            "start_date": "01-12",
+            "end_date": "01-12"
+        },
+        {
+            "logo_path": "logos/faculty-days/ibbm.png",
+            "name": "IBBM",
+            "start_date": "11-12",
+            "end_date": "11-12"
+        },
+        {
+            "logo_path": "logos/faculty-days/fizfak.png",
+            "name": "FIZFAK",
+            "start_date": "07-05",
+            "end_date": "07-05"
+        },
+        {
+            "logo_path": "logos/faculty-days/inek.png",
+            "name": "INEK",
+            "start_date": "04-02",
+            "end_date": "04-02"
+        },
+        {
+            "logo_path": "logos/faculty-days/yurfak.png",
+            "name": "YURFAK",
+            "start_date": "28-11",
+            "end_date": "28-11"
+        },
+        {
+            "logo_path": "logos/faculty-days/fks.png",
+            "name": "FKS",
+            "start_date": "03-07",
+            "end_date": "03-07"
+        },
+        {
+            "logo_path": "logos/faculty-days/ikm.png",
+            "name": "IKM",
+            "start_date": "10-10",
+            "end_date": "10-10"
+        },
+        {
+            "logo_path": "logos/faculty-days/shkola-dizaina.png",
+            "name": "Shkola Dizaina",
+            "start_date": "11-09",
+            "end_date": "11-09"
+        },
+        {
+            "logo_path": "logos/faculty-days/ifizh.png",
+            "name": "IFIZH",
+            "start_date": "06-04",
+            "end_date": "06-04"
+        },
+        {
+            "logo_path": "logos/faculty-days/vshopf.png",
+            "name": "VSHOPF",
+            "start_date": "21-11",
+            "end_date": "21-11"
+        }
+    ]
+}
