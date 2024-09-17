@@ -16,7 +16,15 @@
             "logo_path": "logos/holiday/march-8th.png",
             "name": "March 8th",
             "start_date": "08-03",
-            "end_date": "08-03"
+            "end_date": "08-03",
+            "title": {
+                "color": "0xFF901554"
+            },
+            "description": {
+                "text": "С 8 Марта!",
+                "color": "0xFF901554",
+                "fontSize": "25"
+            }
         },
         {
             "logo_path": "logos/holiday/may-9th.png",
@@ -36,19 +44,28 @@
             "logo_path": "logos/faculty-days/imomi.png",
             "name": "IMOMI",
             "start_date": "27-12",
-            "end_date": "27-12"
+            "end_date": "27-12",
+            "title": {
+                "color": "0xFF0479A2"
+            }
         },
         {
             "logo_path": "logos/faculty-days/fsn.png",
             "name": "FSN",
             "start_date": "25-12",
-            "end_date": "25-12"
+            "end_date": "25-12",
+            "title": {
+                "color": "0xFF886BE8"
+            }
         },
         {
             "logo_path": "logos/faculty-days/himfak.png",
             "name": "HIMFAK",
             "start_date": "24-04",
-            "end_date": "28-04"
+            "end_date": "28-04",
+            "title": {
+                "color": "0xFF6528E0"
+            }
         },
         {
             "logo_path": "logos/faculty-days/rf.png",
@@ -66,7 +83,10 @@
             "logo_path": "logos/faculty-days/ibbm.png",
             "name": "IBBM",
             "start_date": "11-12",
-            "end_date": "11-12"
+            "end_date": "11-12",
+            "title": {
+                "color": "0xFF0614D2"
+            }
         },
         {
             "logo_path": "logos/faculty-days/fizfak.png",
@@ -102,7 +122,10 @@
             "logo_path": "logos/faculty-days/shkola-dizaina.png",
             "name": "Shkola Dizaina",
             "start_date": "11-09",
-            "end_date": "11-09"
+            "end_date": "11-09",
+            "title": {
+                "color": "0xFF363636"
+            }
         },
         {
             "logo_path": "logos/faculty-days/ifizh.png",
