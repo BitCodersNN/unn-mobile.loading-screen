@@ -9,14 +9,14 @@
         {
             "logo_path": "logos/holiday/april-12th.png",
             "name": "April 12th",
-            "start_date": "12-04",
-            "end_date": "12-04"
+            "start_date": "04-12",
+            "end_date": "04-12"
         },
         {
             "logo_path": "logos/holiday/march-8th.png",
             "name": "March 8th",
-            "start_date": "08-03",
-            "end_date": "08-03",
+            "start_date": "03-08",
+            "end_date": "03-08",
             "title": {
                 "color": "0xFF901554"
             },
@@ -29,22 +29,22 @@
         {
             "logo_path": "logos/holiday/may-9th.png",
             "name": "May 9th",
-            "start_date": "09-05",
-            "end_date": "09-05"
+            "start_date": "05-09",
+            "end_date": "05-09"
         },
         {
             "logo_path": "logos/holiday/new-year.png",
             "name": "New Year",
             "start_date": "01-01",
-            "end_date": "11-01"
+            "end_date": "01-11"
         }
     ],
     "faculty_days": [
         {
             "logo_path": "logos/faculty-days/imomi.png",
             "name": "IMOMI",
-            "start_date": "27-12",
-            "end_date": "27-12",
+            "start_date": "12-27",
+            "end_date": "12-27",
             "title": {
                 "color": "0xFF0479A2"
             }
@@ -52,8 +52,8 @@
         {
             "logo_path": "logos/faculty-days/fsn.png",
             "name": "FSN",
-            "start_date": "25-12",
-            "end_date": "25-12",
+            "start_date": "12-25",
+            "end_date": "12-25",
             "title": {
                 "color": "0xFF886BE8"
             }
@@ -61,8 +61,8 @@
         {
             "logo_path": "logos/faculty-days/himfak.png",
             "name": "HIMFAK",
-            "start_date": "24-04",
-            "end_date": "28-04",
+            "start_date": "04-24",
+            "end_date": "04-28",
             "title": {
                 "color": "0xFF6528E0"
             }
@@ -70,20 +70,20 @@
         {
             "logo_path": "logos/faculty-days/rf.png",
             "name": "RF",
-            "start_date": "29-06",
-            "end_date": "29-06"
+            "start_date": "06-29",
+            "end_date": "06-29"
         },
         {
             "logo_path": "logos/faculty-days/iitmm.png",
             "name": "IITMM",
-            "start_date": "01-12",
-            "end_date": "01-12"
+            "start_date": "12-01",
+            "end_date": "12-01"
         },
         {
             "logo_path": "logos/faculty-days/ibbm.png",
             "name": "IBBM",
-            "start_date": "11-12",
-            "end_date": "11-12",
+            "start_date": "12-11",
+            "end_date": "12-11",
             "title": {
                 "color": "0xFF0614D2"
             }
@@ -91,26 +91,26 @@
         {
             "logo_path": "logos/faculty-days/fizfak.png",
             "name": "FIZFAK",
-            "start_date": "07-05",
-            "end_date": "07-05"
+            "start_date": "05-07",
+            "end_date": "05-07"
         },
         {
             "logo_path": "logos/faculty-days/inek.png",
             "name": "INEK",
-            "start_date": "04-02",
-            "end_date": "04-02"
+            "start_date": "02-04",
+            "end_date": "02-04"
         },
         {
             "logo_path": "logos/faculty-days/yurfak.png",
             "name": "YURFAK",
-            "start_date": "28-11",
-            "end_date": "28-11"
+            "start_date": "11-28",
+            "end_date": "11-28"
         },
         {
             "logo_path": "logos/faculty-days/fks.png",
             "name": "FKS",
-            "start_date": "03-07",
-            "end_date": "03-07"
+            "start_date": "07-03",
+            "end_date": "07-03"
         },
         {
             "logo_path": "logos/faculty-days/ikm.png",
@@ -121,8 +121,8 @@
         {
             "logo_path": "logos/faculty-days/shkola-dizaina.png",
             "name": "Shkola Dizaina",
-            "start_date": "11-09",
-            "end_date": "11-09",
+            "start_date": "09-11",
+            "end_date": "09-11",
             "title": {
                 "color": "0xFF363636"
             }
@@ -130,14 +130,14 @@
         {
             "logo_path": "logos/faculty-days/ifizh.png",
             "name": "IFIZH",
-            "start_date": "06-04",
-            "end_date": "06-04"
+            "start_date": "04-06",
+            "end_date": "04-06"
         },
         {
             "logo_path": "logos/faculty-days/vshopf.png",
             "name": "VSHOPF",
-            "start_date": "21-11",
-            "end_date": "21-11"
+            "start_date": "11-21",
+            "end_date": "11-21"
         }
     ]
 }
